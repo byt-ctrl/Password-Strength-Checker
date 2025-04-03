@@ -1,2 +1,15 @@
-# Password-Strength-Checker
-This Python script checks password strength based on length, uppercase, lowercase, and special characters. It provides a strength rating (Weak, Medium, Strong) with improvement suggestions if needed.
+#  **Password Strength Checker** 🔒
+
+This Python script evaluates the strength of your passwords based on:  
+✅ **Length**  
+🔠 **Uppercase & Lowercase Letters**  
+✨ **Special Characters**  
+
+## 💡 **How It Works:**  
+- **Scores** your password based on specific criteria.  
+- Provides **suggestions** to improve password security.  
+- Classifies passwords as **Weak**, **Medium**, or **Strong**.  
+---
+  
+
+
