@@ -11,7 +11,7 @@ def execute_password_strength(pswd):
     
 
     if len(pswd)>=13:
-        score+=3
+        score+=4
     elif len(pswd)>=8:
         score+=2
     else:
